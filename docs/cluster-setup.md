@@ -1,5 +1,5 @@
 # Raspberry Pi Cluster Setup
-This setup uses instructions and code  from [geerlingguy (Jeff Geerling) · GitHub](https://github.com/geerlingguy). Clone the following repo to your local machine.
+This setup uses instructions and code  from [geerlingguy (Jeff Geerling) · GitHub](https://github.com/geerlingguy). I just merged all the instructions into a one pager and added additional steps that I find helped the process for me. Clone the following repo to your local machine.
 ```
 git clone https://github.com/geerlingguy/raspberry-pi-dramble.git
 ```
