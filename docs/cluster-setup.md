@@ -115,7 +115,7 @@ ansible all -i inventory -m shell -a "sleep 1s; shutdown -r now" -b -B 60 -P 0
 ## Install Kubernetes
 This section provides instructions for setting up Kubernetes on the Raspberry Pis.
 
-
+![kubernetes-pi-cluster-architecture](https://user-images.githubusercontent.com/26353407/122659441-5641c980-d146-11eb-8cff-e34f1c8938f0.jpg)
 Source: https://github.com/geerlingguy
 
 Once all the Pis are online and operational, you need to copy the included example.config.yml file to config.yml and modify it to suit your needs (especially consider changing salt and password-related variables!).
