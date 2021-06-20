@@ -1,5 +1,7 @@
 ## Parts and Accessories
-- [4X Raspberry Pi 4 Model B](https://www.buyapi.ca/product/raspberry-pi-4-model-b-8gb/)
+These are the exact parts I purchased for my cluster. You don't have to get the same components as me but this is a good place to start for sourcing components for your cluster.
+
+- [4X Raspberry Pi 4 Model B 8GB](https://www.buyapi.ca/product/raspberry-pi-4-model-b-8gb/)
 - [4X Raspberry Pi PoE Hat](https://www.buyapi.ca/product/raspberry-pi-poe-hat/?src=raspberrypi)
 - [4X Micro SD Cards](https://www.amazon.ca/gp/product/B073JYVKNX/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [4X 0.5 Foot Ethernet Cables](https://www.amazon.ca/gp/product/B004C4ZRFI/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
