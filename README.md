@@ -5,7 +5,7 @@ This repository is a place where post tutorials, blogs and sometimes video walkt
 - [Cluster Monitoring Setup](docs/cluster-monitoring-setup.md)
 - [Pihole Setup](docs/pihole-setup.md)
 
-## Learning
+## Resources
 If your looking for place to start in terms of learning Kubernetes and the principals that spawned kubernetes in the first place, look no further than here.
 - [Jeff Geerling YouTube Channel](https://www.youtube.com/user/geerlingguy)
 - [Jeff Geerling GitHub](https://github.com/geerlingguy)
