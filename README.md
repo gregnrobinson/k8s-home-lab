@@ -1,4 +1,4 @@
-This repository is a place where I will post tutorials, blogs and sometimes video walkthroughs for people interested in Kubernetes. I am fairly new to the Kubernetes landscape but I have enjoyed diving into everything and want to have a place where I can dump my knowledge in the hopes of helping someone get started with their own journey through the landscape.
+This repository is a place where post tutorials, blogs and sometimes video walkthroughs for people interested in Kubernetes. I am fairly new to the Kubernetes landscape but I have enjoyed diving into everything and want to have a place where I can dump my knowledge in the hopes of helping someone get started with their own journey through the landscape.
 
 ## Tutorials
 - [Cluster Monitoring Setup](docs/cluster-monitoring-setup.md)
