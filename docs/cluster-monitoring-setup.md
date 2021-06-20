@@ -36,4 +36,7 @@ http://prometheus.192.168.0.82.nip.io/
 http://alertmanager.192.168.0.82.nip.io/
 ```
 
+![Screen Shot 2021-06-19 at 8 20 14 PM](https://user-images.githubusercontent.com/26353407/122658850-0233e680-d140-11eb-9eb5-3ab1c7c702bf.png)
+
+
 For more detailed documentation, check out Carlos’s repo: [GitHub - carlosedp/cluster-monitoring: Cluster monitoring stack for clusters based on Prometheus Operator](https://github.com/carlosedp/cluster-monitoring)
