@@ -99,7 +99,7 @@ There is an included playbook (inside setup/networking) which will set up all th
 	- kube3.phronesis.cloud (192.168.0.83)
 	- kube4.phronesis.cloud (192.168.0.84)
 
-To use it, you will need to know the IP addresses and MAC addresses for all four Pis as they are currently set up. Copy example.vars.yml to vars.yml, and example.inventory to inventory. Map each MAC address to the new structures inside the networking vars.yml, and add all the *current* Pi IP addresses under the [pis] group inside the networking inventory file. Then run (within the setup/networking directory):
+To use it, you will need to know the IP addresses and MAC addresses for all four Pis as they are currently set up. Copy example.vars.yml to vars.yml, and example.inventory to inventory. Map each MAC address to the new IP addresses you want to set in vars.yml, and add all the *current* Pi IP addresses under the [pis] group inside the networking inventory file. Then run (within the setup/networking directory):
 ```
 ansible-playbook -i inventory main.yml
 ```
