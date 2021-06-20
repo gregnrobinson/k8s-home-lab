@@ -7,7 +7,7 @@ This repository is a place where I document my Raspberry Pi Home Lab for people 
   <img src="https://user-images.githubusercontent.com/26353407/122659519-fb5ca200-d146-11eb-99e1-ac9fe04beee0.jpg" width="330" />
 </p>
 
-## Tutorials
+## Setup
 - [Cluster Setup](docs/cluster-setup.md)
 - [Cluster Monitoring Setup](docs/cluster-monitoring-setup.md)
 - [Pihole Setup](docs/pihole-setup.md)
