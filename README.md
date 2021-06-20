@@ -1,5 +1,5 @@
 
-This repository is a place where I document my Raspberry Pi Home Lab for people interested in doing the same thing. I have enjoyed diving into everything and want to have a place where I can dump my knowledge in the hopes of helping someone get started with their own home lab. This page will be updated whenever I have new information to share. I have some side projects in flight so this page will start to grow.
+This repository is a place where I document the Raspberry Pi k8s Cluster I have running for people interested in doing the same thing. I have enjoyed diving into everything and want to have a place where I can dump my knowledge in the hopes of helping someone get started with their own home lab. This page will be updated whenever I have new information to share. I have some side projects in flight so this page will start to grow.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/26353407/122659537-27782300-d147-11eb-9709-56f1a2c916a0.jpg" width="270" />
@@ -10,6 +10,8 @@ This repository is a place where I document my Raspberry Pi Home Lab for people 
 ## Getting Started
 - [Parts and Accessories](docs/parts.md)
 - [Cluster Setup](docs/cluster-setup.md)
+
+## Projects
 - [Cluster Monitoring Setup](docs/cluster-monitoring-setup.md)
 - [Pihole Setup](docs/pihole-setup.md)
 

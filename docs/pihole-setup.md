@@ -34,7 +34,7 @@ data:
     - name: default
       protocol: layer2
       addresses:
-      - 192.168.1.200-192.168.0.250
+      - 192.168.0.200-192.168.0.250
 ```
 
 Apply the config map using the following command.

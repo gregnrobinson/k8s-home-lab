@@ -6,11 +6,8 @@ git clone https://github.com/geerlingguy/raspberry-pi-dramble.git
 ## Image Raspberry Pis
 The latest images for both 32-bit and 64-bit can be found below. 64-bit images are not directly advertised on their website as it is a beta image still. If you have a the Raspberry PI 4 Model B, I would recommend getting the 64-bit image. Other wise opt for the 32-bit image using the links below to source the latest version.
 
-[Index of /raspios_arm64/images](https://downloads.raspberrypi.org/raspios_arm64/images/)
-
-All 64-bit lite images: [Index of /pub/raspberrypi/raspios_lite_arm64/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspios_lite_arm64/images/)
-
-All 32-bit lite images: [Index of /pub/raspberrypi/raspbian_lite/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspbian_lite/images/)
+- All 64-bit lite images: [Index of /pub/raspberrypi/raspios_lite_arm64/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspios_lite_arm64/images/)
+- All 32-bit lite images: [Index of /pub/raspberrypi/raspbian_lite/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspbian_lite/images/)
 
 Download the [Raspberry PI Imager ](https://www.raspberrypi.org/software/) software for Mac or PC and follow the instructions  on the website to get Raspian OS installed on your Raspberry PI.
 
