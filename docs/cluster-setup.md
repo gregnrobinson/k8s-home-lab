@@ -9,9 +9,8 @@ The latest images for both 32-bit and 64-bit can be found below. 64-bit images a
 
 [Index of /raspios_arm64/images](https://downloads.raspberrypi.org/raspios_arm64/images/)
 
-All 64-bit lite images: [Index of /pub/raspberrypi/raspios_lite_arm64/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspios_lite_arm64/images/)
-
-All 32-bit lite images: [Index of /pub/raspberrypi/raspbian_lite/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspbian_lite/images/)
+- All 64-bit lite images: [Index of /pub/raspberrypi/raspios_lite_arm64/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspios_lite_arm64/images/)
+- All 32-bit lite images: [Index of /pub/raspberrypi/raspbian_lite/images](http://ftp.jaist.ac.jp/pub/raspberrypi/raspbian_lite/images/)
 
 Download the [Raspberry PI Imager ](https://www.raspberrypi.org/software/) software for Mac or PC and follow the instructions  on the website to get Raspian OS installed on your Raspberry PI.
 
