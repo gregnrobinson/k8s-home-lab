@@ -1,4 +1,4 @@
-This repository is a place where post tutorials, blogs and sometimes video walkthroughs for people interested in Kubernetes. I am fairly new to the Kubernetes landscape but I have enjoyed diving into everything and want to have a place where I can dump my knowledge in the hopes of helping someone get started with their own journey through the landscape.
+This repository is a place where I document my Raspberry Pi Home Lab for people interested in doing the same thing. I have enjoyed diving into everything and want to have a place where I can dump my knowledge in the hopes of helping someone get started with their own home lab. This page will be updated whenever I have new information to share. I have some side projects in flight so this page will start to grow.
 
 ## Tutorials
 - [Cluster Setup](docs/cluster-setup.md)
