@@ -8,6 +8,7 @@ This repository is a place where I document my Raspberry Pi Home Lab for people 
 </p>
 
 ## Getting Started
+- [Parts and Accessories](docs/parts.md)
 - [Cluster Setup](docs/cluster-setup.md)
 - [Cluster Monitoring Setup](docs/cluster-monitoring-setup.md)
 - [Pihole Setup](docs/pihole-setup.md)
