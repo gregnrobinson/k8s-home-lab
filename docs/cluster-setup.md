@@ -16,6 +16,7 @@ All 32-bit lite images: [Index of /pub/raspberrypi/raspbian_lite/images](http://
 Download the [Raspberry PI Imager ](https://www.raspberrypi.org/software/) software for Mac or PC and follow the instructions  on the website to get Raspian OS installed on your Raspberry PI.
 
 ## Enable SSH
+
 *Note: you may need to unplug and plug the SD card back in as the imager will eject it after the image is written.*
 
 Run `diskutil list`  to find the disk name. Should look similar to the following output:
