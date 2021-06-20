@@ -12,6 +12,7 @@ sudo apt-get install helm
 
 ## Install MetalLB
 [MetalLB, bare metal load-balancer for Kubernetes](https://metallb.universe.tf/)
+
 In order for the pihole services to expose themselves to the internal network, a load balancer needs to used as the service type. On bare metal installs of Kubernetes the load balancer functionality doesn’t exist out of the box so it is required to make use of one that will work. This is where MetalLB comes in to play.
 
 There are several methods available for the install. I used the following method. Run the following two commands to setup MetalLB.
@@ -89,7 +90,7 @@ spec:
 
 You can then navigate to Pihole in a browser on your local network using either the load balancer IP or the nip.io ingress IP.
 
-[image:3A76EE40-4D7C-4267-8F2C-EBE7C68D88C0-9515-0000032F232FB54A/1054C5DD-65E4-406C-9C8E-7DE6F5C78454.png]
+![1054C5DD-65E4-406C-9C8E-7DE6F5C78454](https://user-images.githubusercontent.com/26353407/122658271-322bbb80-d139-11eb-9495-7c241e5abe92.png)
 
 ## Uninstall
 ```shell
