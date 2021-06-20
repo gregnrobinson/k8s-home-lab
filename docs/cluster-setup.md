@@ -3,7 +3,6 @@ This setup uses instructions and code  from [geerlingguy (Jeff Geerling) · GitH
 ```
 git clone https://github.com/geerlingguy/raspberry-pi-dramble.git
 ```
-
 ## Image Raspberry Pis
 The latest images for both 32-bit and 64-bit can be found below. 64-bit images are not directly advertised on their website as it is a beta image still. If you have a the Raspberry PI 4 Model B, I would recommend getting the 64-bit image. Other wise opt for the 32-bit image using the links below to source the latest version.
 

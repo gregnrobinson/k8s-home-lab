@@ -92,6 +92,10 @@ You can then navigate to Pihole in a browser on your local network using either 
 
 ![1054C5DD-65E4-406C-9C8E-7DE6F5C78454](https://user-images.githubusercontent.com/26353407/122658271-322bbb80-d139-11eb-9495-7c241e5abe92.png)
 
+## Upgrade Revision
+```
+helm upgrade pihole mojo2600/pihole --namespace pihole --values values.yaml
+```
 ## Uninstall
 ```shell
 helm uninstall pihole
