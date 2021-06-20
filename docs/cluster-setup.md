@@ -93,7 +93,7 @@ ssh-copy-id pi@<IP-ADDRESS>
 
 ## Network the Raspberry Pis
 There is an included playbook (inside setup/networking) which will set up all the Pi networking configuration following the below network layout:
-
+*Note: phronesis.cloud is the domain i chose. Modify the domain to one of your domains or use whatever test domain your heart desires.*
 	- kube1.phronesis.cloud (192.168.0.81)
 	- kube2.phronesis.cloud (192.168.0.82)
 	- kube3.phronesis.cloud (192.168.0.83)
