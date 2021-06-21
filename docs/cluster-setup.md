@@ -34,7 +34,7 @@ The card can now be used in the Raspberry PI.
 ## Networking Prerequisites
 Plug the Pis into your network and follow the steps to find the IPs and MAC addresses for each Pi.
 ```
-arp -an
+arp -a
 ```
 
 This will display the MAC address and IP address pairs for all devices on your network. The output will look like:
