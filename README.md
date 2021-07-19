@@ -14,6 +14,7 @@ This repository is a place where I document the Raspberry Pi k8s Cluster I have 
 ## Projects
 - [Cluster Monitoring Setup](docs/cluster-monitoring-setup.md)
 - [Pihole Setup](docs/pihole-setup.md)
+- [Blinkstick Ansible](https://github.com/gregnrobinson/blinkstick-ansible)
 
 ## Resources
 If your looking for place to start in terms of learning Kubernetes and the principals that spawned kubernetes in the first place, look no further than here.
