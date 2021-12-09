@@ -1,0 +1,15 @@
+---
+- name: Copy Kubernetes definition files to the cluster.
+  template:
+    src: "{{ item }}"
+    dest: "~/{{ item | basename }}"
+  with_fileglob: "k8s-manifests/kube-system/*.yml"
+  delegate_to: "{{ groups.dramble[0] }}"
+  run_once: True
+
+- name: Apply metrics-server manifest to the cluster.
+  k8s:
+    state: present
+    src: ~/metrics-server.yml
+  run_once: True
+  delegate_to: "{{ groups.dramble[0] }}"
